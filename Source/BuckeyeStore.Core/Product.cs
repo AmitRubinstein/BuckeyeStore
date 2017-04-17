@@ -10,8 +10,12 @@ namespace BuckeyeStore.Core
         public string Brand {get; set;}
         public Review Review {get; set;}
         public AggregateRating AggregateRating {get; set;}
-        public List<Offer> Offers {get; set;}
+        public System.Collections.Generic.List<Offer> Offers {get; set;}
         public string Sku {get; set;}
 
+        public void AddReview(Review review)
+        {
+            this.Review = review;
+        }
     }
 }

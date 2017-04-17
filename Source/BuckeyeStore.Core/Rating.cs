@@ -1,6 +1,6 @@
 namespace BuckeyeStore.Core
 {
-    public class AggregateRating
+    public class Rating
     {
     }
 }

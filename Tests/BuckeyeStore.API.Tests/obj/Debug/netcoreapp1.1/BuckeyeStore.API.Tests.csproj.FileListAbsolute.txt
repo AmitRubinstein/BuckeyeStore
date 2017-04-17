@@ -1,0 +1,15 @@
+/Users/AmitRubinstein/Documents/3610/BuckeyeStore/Tests/BuckeyeStore.API.Tests/bin/Debug/netcoreapp1.1/BuckeyeStore.API.Tests.deps.json
+/Users/AmitRubinstein/Documents/3610/BuckeyeStore/Tests/BuckeyeStore.API.Tests/bin/Debug/netcoreapp1.1/BuckeyeStore.API.Tests.runtimeconfig.json
+/Users/AmitRubinstein/Documents/3610/BuckeyeStore/Tests/BuckeyeStore.API.Tests/bin/Debug/netcoreapp1.1/BuckeyeStore.API.Tests.runtimeconfig.dev.json
+/Users/AmitRubinstein/Documents/3610/BuckeyeStore/Tests/BuckeyeStore.API.Tests/obj/Debug/netcoreapp1.1/BuckeyeStore.API.Tests.AssemblyInfo.cs
+/Users/AmitRubinstein/Documents/3610/BuckeyeStore/Tests/BuckeyeStore.API.Tests/bin/Debug/netcoreapp1.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/AmitRubinstein/Documents/3610/BuckeyeStore/Tests/BuckeyeStore.API.Tests/bin/Debug/netcoreapp1.1/xunit.runner.utility.netstandard15.dll
+/Users/AmitRubinstein/Documents/3610/BuckeyeStore/Tests/BuckeyeStore.API.Tests/bin/Debug/netcoreapp1.1/xunit.runner.reporters.netstandard15.dll
+/Users/AmitRubinstein/Documents/3610/BuckeyeStore/Tests/BuckeyeStore.API.Tests/bin/Debug/netcoreapp1.1/BuckeyeStore.API.Tests.dll
+/Users/AmitRubinstein/Documents/3610/BuckeyeStore/Tests/BuckeyeStore.API.Tests/bin/Debug/netcoreapp1.1/BuckeyeStore.API.Tests.pdb
+/Users/AmitRubinstein/Documents/3610/BuckeyeStore/Tests/BuckeyeStore.API.Tests/bin/Debug/netcoreapp1.1/BuckeyeStore.Api.dll
+/Users/AmitRubinstein/Documents/3610/BuckeyeStore/Tests/BuckeyeStore.API.Tests/bin/Debug/netcoreapp1.1/BuckeyeStore.Core.dll
+/Users/AmitRubinstein/Documents/3610/BuckeyeStore/Tests/BuckeyeStore.API.Tests/bin/Debug/netcoreapp1.1/BuckeyeStore.Core.pdb
+/Users/AmitRubinstein/Documents/3610/BuckeyeStore/Tests/BuckeyeStore.API.Tests/bin/Debug/netcoreapp1.1/BuckeyeStore.Api.pdb
+/Users/AmitRubinstein/Documents/3610/BuckeyeStore/Tests/BuckeyeStore.API.Tests/obj/Debug/netcoreapp1.1/BuckeyeStore.API.Tests.dll
+/Users/AmitRubinstein/Documents/3610/BuckeyeStore/Tests/BuckeyeStore.API.Tests/obj/Debug/netcoreapp1.1/BuckeyeStore.API.Tests.pdb

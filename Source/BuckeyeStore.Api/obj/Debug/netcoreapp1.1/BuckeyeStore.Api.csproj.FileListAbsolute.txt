@@ -1,0 +1,10 @@
+/Users/AmitRubinstein/Documents/3610/BuckeyeStore/Source/BuckeyeStore.Api/bin/Debug/netcoreapp1.1/BuckeyeStore.Api.deps.json
+/Users/AmitRubinstein/Documents/3610/BuckeyeStore/Source/BuckeyeStore.Api/bin/Debug/netcoreapp1.1/BuckeyeStore.Api.runtimeconfig.json
+/Users/AmitRubinstein/Documents/3610/BuckeyeStore/Source/BuckeyeStore.Api/bin/Debug/netcoreapp1.1/BuckeyeStore.Api.runtimeconfig.dev.json
+/Users/AmitRubinstein/Documents/3610/BuckeyeStore/Source/BuckeyeStore.Api/bin/Debug/netcoreapp1.1/BuckeyeStore.Api.dll
+/Users/AmitRubinstein/Documents/3610/BuckeyeStore/Source/BuckeyeStore.Api/bin/Debug/netcoreapp1.1/BuckeyeStore.Api.pdb
+/Users/AmitRubinstein/Documents/3610/BuckeyeStore/Source/BuckeyeStore.Api/bin/Debug/netcoreapp1.1/BuckeyeStore.Core.dll
+/Users/AmitRubinstein/Documents/3610/BuckeyeStore/Source/BuckeyeStore.Api/bin/Debug/netcoreapp1.1/BuckeyeStore.Core.pdb
+/Users/AmitRubinstein/Documents/3610/BuckeyeStore/Source/BuckeyeStore.Api/obj/Debug/netcoreapp1.1/BuckeyeStore.Api.AssemblyInfo.cs
+/Users/AmitRubinstein/Documents/3610/BuckeyeStore/Source/BuckeyeStore.Api/obj/Debug/netcoreapp1.1/BuckeyeStore.Api.dll
+/Users/AmitRubinstein/Documents/3610/BuckeyeStore/Source/BuckeyeStore.Api/obj/Debug/netcoreapp1.1/BuckeyeStore.Api.pdb
